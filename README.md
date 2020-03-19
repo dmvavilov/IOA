@@ -1,2 +1,2 @@
 # IOA
-Calculating EXGR_DVA TiVA inicator in R 
+Calculating some TiVA inicators in R 
